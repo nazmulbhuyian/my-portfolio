@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Bravo Bank",
+        "img": "https://i.ibb.co/QXPDsgQ/Bravo-Bank-Home.png",
+        "img2": "https://i.ibb.co/zfmJLPx/BravoAcc.png",
+        "img3": "https://i.ibb.co/7WjcJMG/Bravo-Dashboard.png",
+        "client": "https://github.com/Kaiser-Tanveer/Bravo-Bank.git",
+        "live": "https://bravo-bank.web.app/",
+        "server": "https://github.com/Kaiser-Tanveer/Barvo-Bank-Server",
+        "details": "It is a full functional Banking website. It is a Team Project with 3 team members. Completed within 3 weeks.",
+        "detail2": "In this website a user request to open an account and when admin approve he would hold that account. After creating the account user can apply for a card and for a loan with some condition. If admin approve user can get the card and loan. User also can deposit money online on a condition",
+        "detail3": "Technologies & Packages: Frontend: React TypesCript, React Router Dom, Tanstack Query, React Hook Form, EmailJS, Firebase Authentication, Express JS, MongoDB, Vercel etc."
+    },
+    {
+        "title": "Vegetable Shop",
+        "img": "https://i.ibb.co/zfg7wtX/Screenshot-2023-01-10-233744.png",
+        "live": "https://fascinating-gumdrop-ef9d3d.netlify.app/",
+        "img2": "https://i.ibb.co/MCxpJ8b/Screenshot-20230112-021310.png",
+        "img3": "https://i.ibb.co/yBN92QL/Screenshot-20230112-021219.png",
+        "client": "https://github.com/nazmulbhuyian/kachaBazar-client",
+        "server": "https://github.com/nazmulbhuyian/kachaBazar-server",
+        "details": "● The main work on the website is Dashboard related. This website admin role also accesses. Admin can delete all sellers and buyers.",
+        "details2": "● Buyer, Seller, and Admin roles are here. Buyers can book any product. Sellers can sell any product and also add any product. It is responsive for mobile and tablet.",
+        "details3":" ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+    },
+    {
+        "img": "https://i.ibb.co/4YmR2n4/Screenshot-20230111-043306.png",
+        "live": "https://coffee-shop-f190f.web.app/",
+        "title": "Coffee Shop",
+            "img2": "https://i.ibb.co/8KRHxLj/Screenshot-20230112-022629.png",
+            "img3": "https://i.ibb.co/rF1Zk6X/Screenshot-20230112-022702.png",
+            "client": "https://github.com/nazmulbhuyian/coffee-shop-client",
+            "server": "https://github.com/nazmulbhuyian/coffee-shop-server",
+            "details": "● This website is a Mern stack website. It is based on a coffee shop. ● There are many types of coffee on the menu.",
+            "details2":"  ● There are Dashboards also. And a user cannot buy coffee without login.And a customer buys a coffee or a coffee packet very easily.",
+            "details3":" ❖ Technologies:React.js,Firebase,Authentication,react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+        
+    },
+    {
+        "img": "https://i.ibb.co/JH5NJ71/Screenshot-20230112-021942.png",
+        "live": "https://real-state-e4775.web.app/",
+        "title": "Real State",
+            "img2": "https://i.ibb.co/bm97Hnt/Screenshot-20230112-022117.png",
+            "img3": "https://i.ibb.co/xFTL7t5/Screenshot-20230112-022149.png",
+            "client": "https://github.com/nazmulbhuyian/real-state-client",
+            "server": "https://github.com/nazmulbhuyian/real-state-server",
+            "details": "● This website we know different types of apartments. It is also a dynamic website. And a single page application. They also have a protected route.",
+            "detail2" :"● The main work on the website is Dashboard related. People can not buy or rent products without Login. Firebase authentication implemented on this website. ● People buy a home and rent a home or office through this website.",
+            "details3":" ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+    },
+    {
+        "img": "https://i.ibb.co/GQgFFHf/Screenshot-20230112-024639.png",
+        "live": "https://mobile-zone-de3ef.web.app/",
+        "title": "Mobile Zone",
+            "img2": "https://i.ibb.co/9qWwfqm/second-1.png",
+            "img3": "https://i.ibb.co/TvwHvN4/second-2.png",
+            "client": "https://github.com/nazmulbhuyian/mobileZone-client",
+            "server": "https://github.com/nazmulbhuyian/mobileZone-server",
+            "details": "● The main work on the website is Dashboard related. Buyer, Seller, and Admin roles are here. Buyers can book any product and pay for it. Sellers can sell any product and also add any product. It is responsive for mobile and tablet.",
+            "detail2":"● This website admin role also accesses. Admin can delete all sellers and buyers. ● Here buyers can advertise any product which can be seen on the home page and he can also book a product in his wishlist.",
+            "detail3":" ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hook-form, React Query, react-hot-toast, Tailwind, daisyUi, Node.js, Express.js, Cors, MongoDB."
+    },
+    {
+        "img": "https://i.ibb.co/bHxSfVg/Screenshot-20230112-024708.png",
+        "live": "https://mental-press.web.app/",
+        "title": "Mental Press",
+            "img2": "https://i.ibb.co/9wSgFfq/mental-1.png",
+            "img3": "https://i.ibb.co/K9dkfjn/mental-2.png",
+            "client": "https://github.com/nazmulbhuyian/mentalPrees-client",
+            "server": "https://github.com/nazmulbhuyian/mentelPrees-server",
+            "details": "● This website we know six types of mental health problems. We know those problem details. We also know what we should do to remove those problems.",
+            "detail2":" ● This website we see people who comment on those problems. We also comment on those problems. ● This website user cannot get treatment if the user is not logged in. People also add tratment.",
+            "detail3":" ❖ Technologies: React.js, Firebase Authentication, react-router-dom, react-hot-toast, TailwindCSS framework daisyUi, Node.js, Express.js, Cors, MongoDB."
+    }
+]
