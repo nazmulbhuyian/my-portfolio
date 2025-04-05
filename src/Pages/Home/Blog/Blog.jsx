@@ -11,17 +11,17 @@ const Blog = () => {
         {
             id: 1,
             details: "I am much comfortable of UI designing. I am passionate most to design the UI. Check the experiences:",
-            link: "https://fascinating-gumdrop-ef9d3d.netlify.app/"
+            link: "https://jananicomputers.com"
         },
         {
             id: 2,
             details: "I have experiences on team projects. I have led a team to complete a full stack project. I managed the Github, handled the UI, code on Front-end a little bit on the Back-end. Here is the project:",
-            link: "https://bravo-bank.web.app/"
+            link: "https://classicecommerce.com"
         },
         {
             id: 3,
             details: "I have created a full stack resell website using stripe payment method. Review the application:",
-            link: "https://real-state-e4775.web.app/"
+            link: "https://dailyourbangladesh.com"
         }
         
     ]

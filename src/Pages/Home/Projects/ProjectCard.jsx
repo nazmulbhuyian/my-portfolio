@@ -36,8 +36,8 @@ const ProjectCard = ({ project }) => {
                                 <div className="space-y-2">
                                     <h2 className="text-4xl text-center text-emerald-500 font-extrabold tracking-wide" style={{ textShadow: "2px 2px white" }}>{title}</h2>
                                 </div>
-                                <div className='flex justify-between items-center'>
-                                    <a rel="noreferrer" href={client} target='_blank' className='bg-gray-200 rounded-md shadow-lg'><p type="button" className="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md border border-emerald-500 hover:bg-emerald-500 text-emerald-500 hover:text-white hover:scale-110 ease-in-out duration-500" style={{ boxShadow: '2px 3px 5px gray' }}><FaGithub className='text-3xl' /></p></a>
+                                <div className='flex justify-center items-center'>
+                                    {/* <a rel="noreferrer" href={client} target='_blank' className='bg-gray-200 rounded-md shadow-lg'><p type="button" className="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md border border-emerald-500 hover:bg-emerald-500 text-emerald-500 hover:text-white hover:scale-110 ease-in-out duration-500" style={{ boxShadow: '2px 3px 5px gray' }}><FaGithub className='text-3xl' /></p></a> */}
                                     <a rel="noreferrer" href={live} target="_blank" className='bg-gray-200 rounded-md shadow-lg'><p type="button" className="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md border border-emerald-500 hover:bg-emerald-500 text-emerald-500 hover:text-white hover:scale-110 ease-in-out duration-500" style={{ boxShadow: '2px 3px 5px gray' }}><FaGlobe className='text-3xl hover:animate-spin hover:duration-75' />
                                     </p></a>
                                 </div>
